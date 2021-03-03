@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Paytm Releases nexus Repository</name>
-	      <url>http://35.154.111.224:8081/repository/paytm-releases/</url>
+	      <url>http://13.233.133.161:8081/repository/paytm-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Paytm Snapshot Nexus Repository </name>
-	      <url>http://35.154.111.224:8081/repository/paytm-snapshot/</url>
+	      <url>http://13.233.133.161:8081/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
